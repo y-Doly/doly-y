@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Doly Yadav  
+# Hi, I'm Doly Yadav  
 
 🎓 BSc Computer Science Student | 💻 Web Developer | 📊 Aspiring Data Analyst & Data Scientist  
 🌱 Currently learning: Frontend Development (HTML, CSS, JavaScript), Python, SQL, Data Analytics  
@@ -22,8 +22,7 @@
 - Responsive Design   
 
 ### **Backend / Programming**
-- Python  
-- Java (Core)  
+- Python    
 - Flask (Basics)  
 
 ### **Databases**
@@ -39,25 +38,11 @@
 ## 🚀 Featured Projects  
 ### 🌟 **Word Dictionary – GlosaNova**  
 A full-featured dictionary web app built with **HTML, CSS, JavaScript & Python Flask**  
-Includes: meaning lookup, synonyms, UI animations, and smooth transitions  
+Includes: meaning lookup, synonyms, antonyms, translation, UI animations, and smooth transitions  
 
 ### 📱 **AquaCart – Aquarium Online Shopping App** *(In progress)*  
 A Flutter app with **Razorpay integration**  
 Designed to make aquarium shopping simple and secure  
-
----
-
-## 📊 Current Learning Track  
-- ⭐ Frontend (Advanced CSS, JavaScript, animations)  
-- ⭐ Git & GitHub  
-- ⭐ Data Analytics (Python, Pandas, SQL, Visualization)  
-
----
-
-## 🏆 Achievements  
-- Completed practical training: built **contact form** & **responsive content card**  
-- Built multiple mini-projects for skill growth  
-- Consistent learner with strong academic focus  
 
 ---
 
