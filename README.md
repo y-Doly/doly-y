@@ -18,7 +18,9 @@
 ## 🛠️ Tech Stack  
 
 ### **Frontend Development**
-- HTML • CSS • JavaScript  
+- HTML
+- CSS
+- JavaScript  
 - Responsive Design   
 
 ### **Backend / Programming**
@@ -27,11 +29,14 @@
 
 ### **Databases**
 - SQL  
-- MongoDB (Basics)  
+- MongoDB (Basics)
+- MySQL
 
 ### **Tools** 
 - VS Code  
-- Canva (Basics)  
+- Canva (Basics)
+- MS Excel
+- Power BI
 
 ---
 
