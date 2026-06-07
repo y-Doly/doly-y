@@ -1,6 +1,6 @@
 # Hi, I'm Doly Yadav  
 
-🎓 BSc Computer Science Student | 💻 Web Developer | 📊 Aspiring Data Analyst & Data Scientist  
+🎓 BSc Computer Science Graduate | 💻 Web Developer | 📊 Aspiring Data Analyst & Data Scientist  
 🌱 Currently learning: Frontend Development (HTML, CSS, JavaScript), Python, SQL, Data Analytics  
 🚀 Passionate about building real-world projects and learning step-by-step
 
